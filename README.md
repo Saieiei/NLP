@@ -9,7 +9,7 @@ This project demonstrates a Named Entity Recognition (NER) system for biomedical
 
 ### How to Use
 1. Visit the [live demo](https://saieiei.github.io/NLP/).
-2. In the demo, you'll see a text box. Paste the following data into the text box:
+2. In the demo, you'll see a text box. Paste the following data into the text box: or you may write your text and see how the machine works
 
     ```plaintext
     A 63-year-old male patient without smoking or drinking history was admitted on June 11, 2014.
