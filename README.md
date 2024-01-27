@@ -16,6 +16,9 @@ This project demonstrates a Named Entity Recognition (NER) system for biomedical
 - Streamlit
 - Hugging Face API
 
+## Live Demo
+Visit the [live demo](https://saieiei.github.io/NLP/) to see the project in action.
+
 ## Getting Started
 
 ### Prerequisites
