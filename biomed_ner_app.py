@@ -23,7 +23,7 @@ if st.button("Perform NER"):
     for entity in entities:
         st.write(f"Entity: {entity['word']}, Label: {entity['entity']}, Score: {entity['score']}")
 
-# Instructions
+# Final Instructions
 st.markdown(
     """
     Instructions:
