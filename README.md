@@ -8,7 +8,7 @@ This repository contains code for a Natural Language Processing (NLP) project.
 This project demonstrates a Named Entity Recognition (NER) system for biomedical text using the Hugging Face API.
 
 ### How to Use
-1. Visit the [live demo](https://saieiei.github.io/NLP/).
+1. Visit the [live demo](https://saieiei.github.io/NLP/). or click on (https://saieiei.github.io/NLP/)
 2. In the demo, you'll see a text box. Paste the following data into the text box: or you may write your text and see how the machine works
 
     ```plaintext
