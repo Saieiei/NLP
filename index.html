@@ -1,0 +1,30 @@
+# index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biomedical NER Demo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Biomedical NER Demo</h1>
+        <p>Instructions: Enter text in the box and click 'Fetch Data' to highlight and group entities.</p>
+    </header>
+    <main>
+        <div class="container">
+            <div class="input-container">
+                <textarea id="textInput" placeholder="Enter text here"></textarea>
+                <button id="fetchButton">Fetch Data</button>
+            </div>
+            <div id="output" class="hidden"></div>
+        </div>
+    </main>
+    <footer>
+        <p>About the Project: This is a demo of a biomedical Named Entity Recognition (NER) system using the Hugging Face API.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
