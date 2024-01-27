@@ -26,4 +26,4 @@ This project demonstrates a Named Entity Recognition (NER) system for biomedical
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NLP.git
+git clone https://github.com/Saieiei/NLP.git
